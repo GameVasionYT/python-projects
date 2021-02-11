@@ -1,5 +1,5 @@
 # 2048 in Python 3 for Beginners
-# By @TokyoEdTech
+# By GameVasionYT
 
 import turtle
 import random
